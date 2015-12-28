@@ -1,2 +1,0 @@
-# pythonderdek
-python
