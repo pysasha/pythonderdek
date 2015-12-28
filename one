@@ -1,0 +1,9 @@
+a=input('pervoe =')
+b=input('vtoroe =')
+a=int(a)
+b=int(b)
+s=a+b
+r=a-b
+c=a/b
+d=a*b
+print (str(s)+' '+str(r)+' '+str(c)+' '+str(d))
